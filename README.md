@@ -137,3 +137,34 @@ An uninsured agency does not accept retail deposits and needs not apply for fede
 
 Uninsured Branch of a FBO (Federal and State)
 A branch that does not accept retail deposits and needs not apply for federal deposit insurance
+
+
+
+nstitution Name
+The Institution Name must be entered correctly. Partial name is also accepted. For example, if Citi is entered instead of Citibank or Citigroup, you will receive all institutions with names that includes the word citi.
+
+RSSD ID
+RSSD ID is a unique identifier assigned to institutions by the Federal Reserve Board (FRB).
+
+City
+The city name must be spelled correctly. For example, if "SAINT LOUIS" is entered, you will receive only institutions where the city name is "SAINT LOUIS". You will not receive institutions where the city name is "ST LOUIS" or "ST. LOUIS".
+
+States
+Provides the option to select multiple states from the drop down menu.If no state is specified, the search will include all states.
+
+Countries / U.S. Territories
+Selecting a country / U.S. territory is optional (default is “UNITED STATES”). The drop down menu provides the option to select more than one country or a U.S. territory.
+
+Identifiers
+RTN/ABA Routing Transit Number (RTN) is a nine numerical digit number assigned to institutions by the American Bankers Association (ABA). The RTN number is commonly referred to as an ABA number and is found on the bottom of checks.
+FDIC Certificate The FDIC Certificate ID is a unique number assigned to each depository institution by the Federal Deposit Insurance Corporation (FDIC).
+LEI A Legal Entity Identifier (LEI) is a 20-digit alpha-numeric reference code to uniquely identify a legally distinct entity that engages in a financial transaction.
+OCC ID An identifier assigned by the Office of the Comptroller of the Currency (OCC) to all institutions that the OCC grants a charter. Beginning July 21, 2011, the OCC began using the OCC Charter field to facilitate storage of supervisory information for nationally chartered thrifts. These IDs consist of the unique identification number assigned to national banks supervised by the OCC to identify and track a bank. The OCC charters, regulates and supervises all national banks.
+NCUA Charter ID A number assigned to credit unions including corporate credit unions by the National Credit Union Administration (NCUA) for all NCUA-insured credit unions and some non-federally insured credit unions.
+Tax ID A federal tax identification (also known as an employer identification number or EIN) is a nine-digit number assigned solely to a business by the Internal Revenue Service.
+Institution Categories
+Institution Groups and Institution Types
+
+Status
+Active An active institution is currently open and involved in financial transaction.
+Inactive An inactive institution is closed and or no longer involved in financial transaction. Details of the institution's history can be found in the History tab of the Institution Profile
